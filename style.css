@@ -1,0 +1,8 @@
+#potato {
+    width: 750px;
+    height: 111px;
+    text-align:center;
+}
+#potato::placeholder {
+    text-align: center;
+}
